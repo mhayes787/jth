@@ -3,11 +3,7 @@ import "./App.css";
 import { Button, Card } from "react-bootstrap";
 
 function App() {
-  return (
-    <div className="App">
-      <Button>test</Button>
-    </div>
-  );
+  return <div className="App">JTH</div>;
 }
 
 export default App;

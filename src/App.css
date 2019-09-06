@@ -10,7 +10,7 @@
 .bodyBody {
   /* main body styling */
   flex-grow: 1.1;
-  background-color: #f4fafd;
+  background-color: purple;
 }
 .navBody {
   /* Nav body styling */
